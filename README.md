@@ -18,6 +18,10 @@ Check the comments under the "startupFcn(app)" function in the Biofeedback.mlapp
 
 NOTE: I may have missed some MATLAB packages required to run the program, but if so MATLAB should inform you of which packages are missing
 
+### BCILAB
+https://github.com/sccn/BCILAB
+Copy this into the neurofeedbacklab-master folder. More info in the Neurofeedback section below
+
 ### BlueMuse
 Ideal for use on Windows. Enables easy connection to the Muse 2 headset through Bluetooth \
 https://github.com/kowalej/BlueMuse
